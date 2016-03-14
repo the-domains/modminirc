@@ -2,14 +2,20 @@
     <channel>
         <title><![CDATA[ModMiniRC - Modular Mini Multicopters]]></title>
         <description><![CDATA[ModMiniRC - Modular Mini Multicopters]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/modminirc/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 14 Mar 2016 00:51:56 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 14 Mar 2016 08:14:36 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/modminirc/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://thegrid.ai/modminirc/5e5c9520-6089-49a1-9648-64d620bbd69f/index.html</link>
+            <guid isPermaLink="false">5e5c9520-6089-49a1-9648-64d620bbd69f</guid>
+            <pubDate>Mon, 14 Mar 2016 08:14:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/17bd4151-8157-469c-885b-3542b59fa108.jpg">]]></description>
-            <link>undefinedmodminirc-website-is-now-in-pre-beta/index.html</link>
+            <link>https://thegrid.ai/modminirc/modminirc-website-is-now-in-pre-beta/index.html</link>
             <guid isPermaLink="false">2ab028e7-8ee6-4e3e-a19d-d11863ec4e00</guid>
             <pubDate>Mon, 14 Mar 2016 00:49:38 GMT</pubDate>
         </item>
