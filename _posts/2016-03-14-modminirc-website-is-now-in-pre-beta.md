@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: 'ModMiniRC website is now in Pre-Beta!'
-datePublished: '2016-03-14T00:49:38.871Z'
-dateModified: '2016-03-14T00:48:43.692Z'
-title: ''
+description: 'Third try at making a ModMini website, this time with the help of thegrid. Much teething problems though so please bear with me. '
+datePublished: '2016-03-14T08:15:49.258Z'
+dateModified: '2016-03-14T08:15:48.260Z'
+title: 'ModMiniRC website is now in Pre-Beta!'
 author: []
+sourcePath: _posts/2016-03-14-modminirc-website-is-now-in-pre-beta.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-14-modminirc-website-is-now-in-pre-beta.md
-published: true
 url: modminirc-website-is-now-in-pre-beta/index.html
 _type: Article
 
