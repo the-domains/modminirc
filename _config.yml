@@ -1,4 +1,4 @@
-name: modminirc
+name: ModMiniRC
 favicon: null
 layout_spectrum: 0.08380242763087153
 typography_spectrum: 0.12661613104864955
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#e8e6e9'
+    - '#151016'
+    - '#9a90ab'
+    - '#5f5c77'
+    - '#d3b201'
   brandStrength: 0.6602473154198378
   lightness: 0.02760086301714182
   saturation: 0.5913095511496067
