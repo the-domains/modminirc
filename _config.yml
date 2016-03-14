@@ -2,6 +2,7 @@ name: modminirc
 favicon: null
 layout_spectrum: 0.08380242763087153
 typography_spectrum: 0.12661613104864955
+title: ModMiniRC - Modular Mini Multicopters
 cta:
   domain: null
   bucket: null
